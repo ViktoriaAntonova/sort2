@@ -20,7 +20,7 @@ namespace sort2
                 Console.Write("Ime: ");
                 input = Console.ReadLine();
 
-                if (input.ToLower() == "break")
+                if (input.ToLower() == "break ")
                 {
                     break;
                 }
